@@ -1,3 +1,4 @@
 *.ini
 *.h5
-/data/*
+data/*
+data/
